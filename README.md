@@ -19,9 +19,13 @@ The solution focuses on detecting organized fraud using network-based indicators
 1. Executive Fraud Overview
 ![Executive_Fraud_Overview](https://github.com/imsc100k/Insurance_Fraud_PowerBI_Reports/blob/main/dashboards/Executive_Fraud_Overview.png)
 3. Fraud Risk & Anomaly Analysis
-4. Provider & Agent Network Risk
-5. Network Indicators (Centrality Proxy)
-6. Investigation Prioritization
+![Fraud_Risk_Anomalies](https://github.com/imsc100k/Insurance_Fraud_PowerBI_Reports/blob/main/dashboards/Fraud_Risk_Anomalies.png)
+5. Provider & Agent Network Risk
+![Investigation_Prioritization](https://github.com/imsc100k/Insurance_Fraud_PowerBI_Reports/blob/main/dashboards/Investigation_Prioritization.png)
+7. Network Indicators (Centrality Proxy)
+![Network_Indicators](https://github.com/imsc100k/Insurance_Fraud_PowerBI_Reports/blob/main/dashboards/Network_Indicators.png)
+9. Investigation Prioritization
+![Provider_Agent_Network_Risk](https://github.com/imsc100k/Insurance_Fraud_PowerBI_Reports/blob/main/dashboards/Provider_Agent_Network_Risk.png)
 
 ## Tools & Technologies
 - Microsoft Power BI
